@@ -433,33 +433,26 @@ li {
   padding-left: 2px;
 }
 
-.button {
-  background-color: #7d73fc;
-  position: static;
-  width: 88px;
-  height: 58px;
-  left: 12px;
-  top: 12px;
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-weight: 800;
-  font-size: 12px;
-  line-height: 24px;
+button {
   display: flex;
+  flex-direction: row;
   align-items: center;
-  text-align: center;
-  letter-spacing: 0.03em;
+  padding: 12px;
+  position: static;
+  width: 101px;
+  height: 57px;
+  top: 421px;
+  background: #7d73fc;
   color: #edecff;
   flex: none;
-  order: 0;
+  order: 3;
   flex-grow: 0;
-  margin: 3px;
+  margin: 5px;
 }
 
 button:hover {
   background-color: #c8c8d4;
   color: #191765;
-  font-weight: 800;
 }
 
 button:active {
@@ -472,9 +465,11 @@ button:visited {
 
 .ellipse-work-sec1 {
   position: absolute;
-  left: -225.04px;
-  top: -119.29px;
-  transform: rotate(-22.38deg);
+  width: 70.28px;
+  height: 261.6px;
+  left: -258.04px;
+  top: -146.29px;
+  transform: rotate(-8.38deg);
 }
 
 .ellipse-work-sec2 {
@@ -484,6 +479,26 @@ button:visited {
   left: 574.27px;
   top: 894.23px;
   background: #edecff;
-  filter: blur(13px);
+  filter: blur(40px);
   transform: matrix(-0.84, -0.54, -0.54, 0.84, 0, 0);
+}
+
+.ellipse-work-sec3 {
+  position: absolute;
+  width: 308px;
+  height: 309px;
+  left: -259px;
+  top: 1597px;
+  background: rgba(237, 236, 255, 0.3);
+  filter: blur(39px);
+}
+
+.ellipse-work-sec4 {
+  position: absolute;
+  width: 101.29px;
+  height: 291.04px;
+  left: 385.22px;
+  top: 2190px;
+  filter: blur(23px);
+  transform: matrix(-0.26, 0.97, 0.97, 0.26, 0, 0);
 }
