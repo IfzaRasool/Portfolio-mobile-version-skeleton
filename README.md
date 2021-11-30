@@ -2,21 +2,38 @@
 
 # Project:
 # Create a Portfolio setup and mobile version skeleton:
-In this project we just make a mobile version skeleton .simple template that i make using figma UI tool.figma tool is used for easily create project template skeleton.here we use just two languages HTML and CSS with proper semantic rules.
+
+Work Section page : Where you can see the recent post with full description. basically is a Project of  mobile version skeleton . simple template that i make using figma UI tool.figma tool is used for easily create project template skeleton.here we use just two languages HTML and CSS with proper semantic rules and adding some graphical images for interface.
+
+#Build with
+
+# Languages :
+
+ 1)HTML
+ 2)CSS
 
 # Installaion:
 Linters
 npm
 webhint
 stylelintrc
-visual studio code/optional
 
- # Languages :
+ # FrameWork:
+ visual studio code/optional
 
- 1)HTML
- 2)CSS
+# Tool
+Figma
 
-#Template: for template use figma.
+👤 Author
+
+GitHub: @IfzaRasool
+Twitter: @IfzaRasool
+LinkedIn: Ifza Arain
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
 
 # Credits
 https://github.com/IfzaRasool/Portfolio-setup-and-mobile-version-skeleton.git
@@ -27,5 +44,14 @@ https://learn.shayhowe.com/html-css/opening-the-box-model/#how-are-elements-disp
 
 I took help from these link these are very help full.
 
- # License:
-  https://choosealicense.com/
+# Show your support
+Give a ⭐️ if you like this project!
+
+# Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc
+
+📝 # License
+This project is MIT licensed.
+
