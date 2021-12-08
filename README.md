@@ -3,7 +3,7 @@
 # Project:
 # Create a Portfolio setup and mobile version skeleton:
 
-Work Section page : Where you can see the recent post with full description. basically is a Project of  mobile version skeleton . simple template that i make using figma UI tool.figma tool is used for easily create project template skeleton.here we use just two languages HTML and CSS with proper semantic rules and adding some graphical images for interface.
+Contact Form: with the help of the contact form easily contact with admin and send any query and ask whatever you want. This is a Project of a mobile version skeleton. A simple template that I make using the Figma UI tool. The Figma tool is used to easily create a project template skeleton. here we use just two languages HTML and CSS with proper semantic rules and add some graphical images for the interface.
 
 #Build with
 
