@@ -427,7 +427,7 @@ li {
   padding: 2px;
 }
 
-.main-post-container > section {
+.main-post-container>section {
   padding: 20px;
   font-size: 18px;
   color: #dcdce8;
@@ -645,6 +645,22 @@ li {
   width: 327px;
   height: 148px;
   top: calc(57% - 48px / 2);
+}
+
+::placeholder {
+  height: 23px;
+  left: 16px;
+  right: 16px;
+  top: calc(50% - 18px / 2);
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #81818c;
+  padding-left: 16px;
 }
 
 .contact-btn {
